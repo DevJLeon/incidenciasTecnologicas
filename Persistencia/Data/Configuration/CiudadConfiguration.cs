@@ -12,8 +12,11 @@ namespace Persistencia.Data.Configuration
             // utilizando el objeto 'builder'.
             builder.ToTable("ciudad");
 
-            builder.HasKey(e => e.);
-            builder.Property(e => e.);
+            builder.HasKey(e => e.Id);
+            builder.Property(e => e.Id)
+            .HasMaxLength(3);
+
+            
         }
     }
 }

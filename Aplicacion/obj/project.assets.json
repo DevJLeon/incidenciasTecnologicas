@@ -5235,19 +5235,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joshua\\.nuget\\packages\\": {}
+    "C:\\Users\\T01-037\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Joshua\\Documents\\PROYECTOS\\C#\\incidenciasTecnologicas\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "c:\\Users\\T01-037\\Documents\\Joshua\\incidenciasTecnologicas\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "c:\\Users\\Joshua\\Documents\\PROYECTOS\\C#\\incidenciasTecnologicas\\Aplicacion\\Aplicacion.csproj",
-      "packagesPath": "C:\\Users\\Joshua\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Joshua\\Documents\\PROYECTOS\\C#\\incidenciasTecnologicas\\Aplicacion\\obj\\",
+      "projectPath": "c:\\Users\\T01-037\\Documents\\Joshua\\incidenciasTecnologicas\\Aplicacion\\Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\T01-037\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\T01-037\\Documents\\Joshua\\incidenciasTecnologicas\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joshua\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\T01-037\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5259,11 +5259,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Joshua\\Documents\\PROYECTOS\\C#\\incidenciasTecnologicas\\Dominio\\Dominio.csproj": {
-              "projectPath": "c:\\Users\\Joshua\\Documents\\PROYECTOS\\C#\\incidenciasTecnologicas\\Dominio\\Dominio.csproj"
+            "c:\\Users\\T01-037\\Documents\\Joshua\\incidenciasTecnologicas\\Dominio\\Dominio.csproj": {
+              "projectPath": "c:\\Users\\T01-037\\Documents\\Joshua\\incidenciasTecnologicas\\Dominio\\Dominio.csproj"
             },
-            "c:\\Users\\Joshua\\Documents\\PROYECTOS\\C#\\incidenciasTecnologicas\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "c:\\Users\\Joshua\\Documents\\PROYECTOS\\C#\\incidenciasTecnologicas\\Persistencia\\Persistencia.csproj"
+            "c:\\Users\\T01-037\\Documents\\Joshua\\incidenciasTecnologicas\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "c:\\Users\\T01-037\\Documents\\Joshua\\incidenciasTecnologicas\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -5272,9 +5272,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -5291,26 +5288,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.8, 7.0.8]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.8, 7.0.8]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.8, 7.0.8]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
