@@ -10,6 +10,7 @@ namespace ApiIncidencias.Extension
         public static void ConfigureCors(this IServiceCollection services)=>
         services.AddCors(options =>
         {
+
             
         }
         )
